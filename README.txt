@@ -1,0 +1,14 @@
+This is the Accounting project.
+https://www.sourcecodester.com/php/15155/accounting-journal-management-system-trial-balance-php-free-source-code.html
+
+
+Open your XAMPP/WAMP's Control Panel and start Apache and MySQL.
+Extract the downloaded source code zip file.
+If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
+Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+Create a new database naming ajms_db.
+Import the provided SQL file. The file is known as ajms_db.sql located inside the database folder.
+Browse the Accounting Journal Management System with Trial balance in a browser. i.e. http://localhost/ajms/.
+Default Admin Access
+Username: admin
+Password: admin123
